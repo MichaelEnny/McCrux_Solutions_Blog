@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "target": "mccruxBlogDashboard",
+    "public": "dist/mccrux-blog-dashboard",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}

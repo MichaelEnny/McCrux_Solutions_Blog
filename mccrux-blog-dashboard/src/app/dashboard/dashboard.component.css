@@ -1,0 +1,4 @@
+.card{
+    height: 200px;
+    cursor: pointer   /*to change the pointer to hand when hovered over*/
+}
